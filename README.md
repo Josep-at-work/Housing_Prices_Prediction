@@ -15,3 +15,4 @@ This Notebook is the result of the new concepts I've learnt in the [introductory
 + Use Cross-Validation on the hyperparameter searching step. 
 + Optimized a XGBoost Regression model for the prediction of sale prices. Used the implementation of the scikit-learn API.
 + With the `Pipeline` class from sklearn I've ensambled the preprocessing steps with the model.
++ Data Leakage
