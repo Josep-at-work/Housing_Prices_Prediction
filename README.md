@@ -1,6 +1,6 @@
 # Housing_Prices_Prediction
 
-My contribution to the Housing Prices Competition on Kaggle.
+My contribution to the [Housing Prices Competition](https://www.kaggle.com/c/home-data-for-ml-course) on Kaggle.
 
 #### Current Score (MAE): 
 14930.20588
