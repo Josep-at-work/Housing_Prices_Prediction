@@ -5,7 +5,7 @@ My contribution to the [Housing Prices Competition](https://www.kaggle.com/c/hom
 #### Current Score (MAE): 
 14930.20588
 
-This Notebook is the result of the new concepts I've learnt in the [introductory](https://www.kaggle.com/learn/intro-to-machine-learning) and [intermediate](https://www.kaggle.com/learn/intermediate-machine-learning) ML micro-courses on Kaggle. 
+[Housing Prices](https://github.com/Josep-at-work/Housing_Prices_Prediction/blob/master/Housing%20Prices%20v0.ipynb) is the result of all the new concepts I've learnt in the [introductory](https://www.kaggle.com/learn/intro-to-machine-learning) and [intermediate](https://www.kaggle.com/learn/intermediate-machine-learning) ML micro-courses on Kaggle. 
 
 ## Key concepts:
 + List/Dict comprehension.
