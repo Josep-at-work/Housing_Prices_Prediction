@@ -2,6 +2,9 @@
 
 My contribution to the Housing Prices Competition on Kaggle.
 
+#### Current Score (MAE): 
+14930.20588
+
 This Notebook is the result of the new concepts I've learnt in the [introductory](https://www.kaggle.com/learn/intro-to-machine-learning) and [intermediate](https://www.kaggle.com/learn/intermediate-machine-learning) ML micro-courses on Kaggle. 
 
 ## Key concepts:
